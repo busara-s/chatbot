@@ -2,7 +2,7 @@
 
 Ollama is a powerful tool for running and interacting with AI models locally on your machine. This repository provides a guide on how to set up, configure, and chat with Ollama using Python.
 
-![img](chat-example.png)
+![img](/chat-example.png)
 
 ## 🛠 Installation
 To get started, install Ollama by following these steps:
