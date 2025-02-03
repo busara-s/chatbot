@@ -21,11 +21,10 @@ ollama --version
 ollama pull llama3.2-vision
 ```
 
-### 4. Python Requirements
-
-- Python 3.8+
-- streamlit
-- langchain
+### 4. Install Required Packages
+```
+pip install ollama streamlit langchain
+```
 
 ## Running the Chat Application
 ```
