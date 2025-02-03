@@ -32,5 +32,6 @@ ollama pull llama3.2-vision
 streamlit run chatbot.py
 ```
 
-📜 License
+## 📜 License
+
 This project is licensed under the MIT License.
